@@ -20,7 +20,7 @@
   "sortByDropdown": "//div[@type='CANVAS_WIDGET']/div[contains(@class, 't--widget-dropdownwidget')][2]",
   "ascending": "//div[text()='Ascending']",
   "descending": "//div[text()='Descending']",
-  "currentNameField": "//div[@type='FORM_WIDGET']//span[text()='name:']//ancestor::div[contains(@class,'t--widget-textwidget')]/preceding-sibling::div[contains(@class, 't--widget-inputwidgetv2')][1]//input",
+  "currentNameField": "//div[@type='FORM_WIDGET']//span[text()='name:']//ancestor::div[contains(@class,'t--widget-textwidget')]/preceding-sibling::div[contains(@class, 't--widget-inputwidget')][1]//input",
   "deleteofSelectedRow": "//div[@class='tr selected-row']//span[text()='Delete']",
   "confirmBtn": "span:contains('Confirm')",
   "deleteMenuItem": "//div[text()='Delete']/parent::a[contains(@class, 'single-select')]",
